@@ -1,6 +1,5 @@
 # OOP-lab
-OOP labs by University Politehnica Bucharest.
+OOP labs by Micu Florian-Luis and Alexandru Gheorghe.
 
-After a review, please implement the required changes and wait for approvals.
+**Please check the demos as you might find some interesting behaviours explained here. If something is not clear, please ask us.**
 
-**Please do not merge pull requests before approvals!!!**
