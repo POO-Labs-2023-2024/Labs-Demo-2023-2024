@@ -9,7 +9,7 @@ public class Main {
 
         a.print(); // afișează Car
         b.print(); // afișează Dacia
-        c.print(); // afișează Dacia
+        c.print(); // afișează dacia
         d.print(); // aruncă NullPointerException
 
         a.addGasoline();
